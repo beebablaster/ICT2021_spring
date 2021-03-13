@@ -1,0 +1,13 @@
+C:\ict\FileManager\bin\Debug\netcoreapp3.1\FileManager.exe
+C:\ict\FileManager\bin\Debug\netcoreapp3.1\FileManager.deps.json
+C:\ict\FileManager\bin\Debug\netcoreapp3.1\FileManager.runtimeconfig.json
+C:\ict\FileManager\bin\Debug\netcoreapp3.1\FileManager.runtimeconfig.dev.json
+C:\ict\FileManager\bin\Debug\netcoreapp3.1\FileManager.dll
+C:\ict\FileManager\bin\Debug\netcoreapp3.1\FileManager.pdb
+C:\ict\FileManager\obj\Debug\netcoreapp3.1\FileManager.csprojAssemblyReference.cache
+C:\ict\FileManager\obj\Debug\netcoreapp3.1\FileManager.AssemblyInfoInputs.cache
+C:\ict\FileManager\obj\Debug\netcoreapp3.1\FileManager.AssemblyInfo.cs
+C:\ict\FileManager\obj\Debug\netcoreapp3.1\FileManager.csproj.CoreCompileInputs.cache
+C:\ict\FileManager\obj\Debug\netcoreapp3.1\FileManager.dll
+C:\ict\FileManager\obj\Debug\netcoreapp3.1\FileManager.pdb
+C:\ict\FileManager\obj\Debug\netcoreapp3.1\FileManager.genruntimeconfig.cache
